@@ -1,0 +1,27 @@
+---
+layout: default
+title: Elton Santos
+---
+
+<div class="home" id="home">
+  <h1 class="pageTitle">Artigos Recentes</h1>
+  <ul class="posts noList">
+    {% for page in site.posts %}
+      <li>
+        <span class="date">Escrito em: {% include formato_data.html %}.</span>
+        <h3>
+          <a class="post-link" href="{{ page.url | prepend: site.baseurl }}">
+            {{ page.title }}
+          </a>
+        </h3>
+        
+        <img height="200" width="350" src="{{site.baseurl}}/images/{{page.image}}" />
+
+        <p class="description">
+          {{ page.content | strip_html | strip_newlines | truncate: 150 }}
+          <a class="post-link" href="{{ page.url | prepend: site.baseurl }}">Mais</a>
+        </p>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

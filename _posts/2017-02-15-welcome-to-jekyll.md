@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  Welcome to Jekyll!
+image: desk.jpg
 date:   2017-02-15 02:28:19 -0300
 categories: jekyll update
 ---

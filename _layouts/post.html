@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div style="text-align: justify;" class="post">
+  {% if page.image %}
+    <div class="featuredImage">
+      <img src="{{ '/images/' | prepend: site.baseurl | append: page.image }}" alt="" />
+    </div>
+  {% endif %}
+  <h1 class="postTitle">{{ page.title }}</h1>
+  <p class="meta">{% include formato_data.html %} |
+    <span class="time">{{ page.content | number_of_words | divided_by:80 }}</span> Minutos leyendo
+  </p>
+
+  {{ content }}
+
+</div>
