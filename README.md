@@ -5,7 +5,7 @@ My blog personal create with github pages and using Jekyll.
 ## Dependencies
 
 - Ruby 2.3.3 version
-- Jekyll 3.3.0 version
+- Jekyll 3.4.0 version
 
 ## Installation
 
