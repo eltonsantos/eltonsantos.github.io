@@ -7,10 +7,18 @@ baseurl: ""
 url: "https://eltonsantos.github.io"
 
 # Social
-linkedin_username: eltonmelosantos
-twitter_username: eltin182
-github_username:  eltonsantos
-gplus_username: eltin182
+# linkedin_username: eltonmelosantos
+# twitter_username: eltin182
+# github_username:  eltonsantos
+# gplus_username: eltin182
+
+# Social
+social:
+  linkedin: eltonmelosantos
+  twitter: eltin182
+  github:  eltonsantos
+  gplus: eltin182
+  email: eltonaxl@hotmail.com
 
 # Navigation
 navigation:

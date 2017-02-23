@@ -1,10 +1,51 @@
-<div class="footer">
-  <div class="container">
-    <p class="copy">&copy; {{ site.time | date: '%Y' }} <a href="https://www.linkedin.com/in/eltonmelosantos" target="blank">{{ site.title }}</a> Criado com: <a href="http://jekyllrb.com" target="blank">Jekyll</a> Visitante:
+<div class="footer footer-edit">
+  <div class="container container-footer">
+    <p class="copy pull-left">&copy; {{ site.time | date: '%Y' }} <a href="https://www.linkedin.com/in/eltonmelosantos" target="blank">{{ site.title }}</a> Criado com: <a href="http://jekyllrb.com" target="blank">Jekyll</a> Visitante:
     </p>
 
-    <div class="footer-links">
+    <div class="footer-links pull-right">
+      <ul>
+        {% if site.social.linkedin %}
+          <li>
+            <span class="fa-stack">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+            </span>
+          </li>
+        {% endif %}
+        {% if site.social.twitter %}
+          <li>
+            <span class="fa-stack">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+            </span>
+          </li>
+        {% endif %}
+        {% if site.social.github %}
+          <li>
+            <span class="fa-stack">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+            </span>
+          </li>
+        {% endif %}
+        {% if site.social.gplus %}
+          <li>
+            <span class="fa-stack">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+            </span>
+          </li>
+        {% endif %}
+        {% if site.social.email %}
+          <li>
+            <span class="fa-stack">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+            </span>
+          </li>
+        {% endif %}
+      </ul>     
     </div>
-
   </div>
 </div><!-- end .footer -->

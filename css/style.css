@@ -31,4 +31,74 @@ header.sticky {
 
 .all-content {width: 800px; }
 
-body {height: 2000px;}
+/* Apenas teste */
+body {
+    height: 2000px;
+    font-family: "PT Serif", Georgia, Times, serif;
+    line-height: 1.75;
+    font-size: 112.5%;
+    color: #111;
+}
+
+/* Página inicial */
+.pageTitle {
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 3em;
+    line-height: 1.05;
+    text-align: center;
+    margin: 2rem auto 1em;
+}
+
+.posts {
+    width: 74.46809%; /* Dúvida */
+    margin: 0 auto 1.5em; /* Dúvida */
+}
+
+.posts li {
+    margin-bottom: 4rem;
+    /*border-bottom: 1px solid #ccc;*/
+}
+
+.posts h3 {
+    font-size: 1.75em;
+    line-height: 1.25;
+    margin: 0 0 .5em;
+}
+
+.posts .date {
+    color: gray;
+    font-weight: 300;
+    font-size: .8em;
+}
+
+.post-link {}
+
+/* Footer */
+.footer-edit {
+    margin-top: 30px;
+}
+
+.footer-edit .copy {
+    line-height: 35px;
+}
+
+.footer-edit .container {
+    border-top: 4px solid #d9d9d9;
+    padding-top: .5em;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container-footer {
+    width: 800px;
+}
+
+.footer-links {
+    font-size: 15px;
+    color: #335C7D;
+}
+
+.footer-links ul li {
+    display: inline;
+}
