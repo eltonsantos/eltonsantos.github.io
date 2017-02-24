@@ -28,7 +28,7 @@ header {
     background: #335C7D;
     color: #fff !important;
     font-family: 'PT Sans', sans-serif;
-    
+    z-index: 1;
     -webkit-transition: all 0.4s ease;
     transition: all 0.4s ease;
 }
@@ -186,8 +186,13 @@ ul > li {
     -webkit-border-radius: 3px;
     border-radius: 3px;
     padding: 20px;
-    background: #343642;
-    color: #C1C2C3;
+    background: #343642 !important;
+    color: #C1C2C3 !important;
+}
+
+pre {
+    background: #343642 !important;
+    color: #C1C2C3 !important;
 }
 
 .post blockquote {

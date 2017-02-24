@@ -8,7 +8,10 @@ title: Elton Santos
   <ul class="posts noList">
     {% for page in site.posts %}
       <li>
-        <span class="date">Escrito em: {% include formato_data.html %}.</span>
+        <span class="date">
+          Escrito em: {% include formato_data.html %}.
+          Categoria: <a href="#">{{ site.title }}</a>
+        </span>
         <h3>
           <a class="post-link" href="{{ page.url | prepend: site.baseurl }}">
             {{ page.title }}
