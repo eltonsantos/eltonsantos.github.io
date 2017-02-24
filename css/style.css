@@ -62,7 +62,6 @@ header.sticky {
 .navbar-center { width: 100%; height: 50px; }
 
 .navbar-nav {
-    /*float:none;*/
     text-align:center;
     font-size: 15px;
     height: 50px;
