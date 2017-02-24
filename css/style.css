@@ -1,5 +1,13 @@
 /** * Eric Meyer's Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/) * http://cssreset.com */html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,time, mark, audio, video {  margin: 0;  padding: 0; border: 0;  font-size: 100%;  font: inherit;  vertical-align: baseline;}/* HTML5 display-role reset for older browsers */article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {  display: block;}body {  line-height: 1;}ol, ul {  list-style: none;}blockquote, q { quotes: none;}blockquote:before, blockquote:after,q:before, q:after { content: '';  content: none;}table {  border-collapse: collapse;  border-spacing: 0;}
-        
+
+/* Apenas teste */
+body {
+    /*height: 2000px;*/
+    font-family: "PT Serif", Georgia, Times, serif;
+    line-height: 1.75;
+    font-size: 112.5%;
+    color: #111;
+}    
         
 header {
     text-align: center;
@@ -10,12 +18,20 @@ header {
     color: #fff !important;
     font-family: 'PT Sans', sans-serif;
     
-    // set animation
     -webkit-transition: all 0.4s ease;
     transition: all 0.4s ease;
 }
 
-header h1 a { color: #f1f1f1; }
+header h1 a {
+    color: #f1f1f1;
+    font-weight: bold;
+}
+
+header h1 a:hover {
+    color: #fff;
+    font-style: none;
+    text-decoration: none;
+}
 
 header.sticky {
     position: fixed;
@@ -29,16 +45,21 @@ header.sticky {
     padding-left: 20px;
 }
 
-.all-content {width: 800px; }
+.navbar-center { width: 100%; }
 
-/* Apenas teste */
-body {
-    height: 2000px;
-    font-family: "PT Serif", Georgia, Times, serif;
-    line-height: 1.75;
-    font-size: 112.5%;
-    color: #111;
+.navbar-nav { text-align: center; }
+
+.navbar-nav {
+    float:none;
+    text-align:center;
 }
+
+.nav > li {
+    display: inline-block;
+    float:none;
+}
+
+.all-content { width: 800px; }
 
 /* Página inicial */
 .pageTitle {
@@ -47,12 +68,15 @@ body {
     line-height: 1.05;
     text-align: center;
     margin: 2rem auto 1em;
+    font-weight: bold;
 }
 
 .posts {
     width: 74.46809%; /* Dúvida */
     margin: 0 auto 1.5em; /* Dúvida */
 }
+
+
 
 .posts li {
     margin-bottom: 4rem;
@@ -71,15 +95,106 @@ body {
     font-size: .8em;
 }
 
-.post-link {}
+.post-link {
+    font-size: 35px;
+    font-weight: bold;
+}
 
+/* Página post */
+.post .pageTitle, .post dl, .post h1, .post h2, .post h3, .post h4, .post h5, .post h6, .post ol, .post p, .post ul {
+    width: 74.46809%;
+    float: none;
+    margin: 0 auto 1rem;
+}
+
+.post .h1, .post .h2, .post .h3, .post .h4, .post .h5, .post .h6, .post h1, .post h2, .post h3, .post h4, .post h5, .post h6 {
+    margin: 1rem auto;
+    font-size: 2.25em;
+    line-height: 1.25;
+    font-weight: bold;
+}
+
+.dropcap {
+    float: left;
+    padding: 0px 7px 0px 0px;
+    font-size: 78.75px;
+    line-height: 0px;
+    margin-top: 38px;
+    height: 30px;
+    color: #335C7D;
+}
+
+ul > li {
+    font-size: 1.3em;
+}
+
+.post ul li strong {
+    font-weight: bold;
+}
+
+.post .postTitle, .post .meta {
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.post .featuredImage {
+    position: relative;
+    margin-top: 2rem;
+    z-index: -1;
+}
+
+.post .featuredImage img {
+    display: block;
+    margin: auto;
+}
+
+.postTitle {
+    margin-top: 2rem !important;
+    text-align: center;
+    font-size: 3em;
+    line-height: 1.05;
+    font-weight: bold;
+}
+
+.meta {
+    color: gray;
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 40px !important;
+    line-height: 25px;
+}
+
+.intro {
+    font-size: 1.25em;
+    line-height: 1.7;
+}
+
+.highlight {
+    white-space: pre;
+    word-wrap: normal;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    padding: 20px;
+    background: #343642;
+    color: #C1C2C3;
+}
+
+.post blockquote {
+    clear: both;
+    margin: 2.5em 0;
+    padding: 0;
+    line-height: 1.8;
+    position: relative;
+        font-size: 1.2em;
+}
 /* Footer */
+
 .footer-edit {
     margin-top: 30px;
 }
 
 .footer-edit .copy {
-    line-height: 35px;
+    line-height: 25px;
 }
 
 .footer-edit .container {
@@ -88,6 +203,7 @@ body {
     max-width: 90%;
     margin-left: auto;
     margin-right: auto;
+    height: 150px;
 }
 
 .container-footer {
@@ -95,7 +211,7 @@ body {
 }
 
 .footer-links {
-    font-size: 15px;
+    font-size: 11px;
     color: #335C7D;
 }
 

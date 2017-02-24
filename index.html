@@ -21,7 +21,7 @@ title: Elton Santos
 
         <p class="description">
           {{ page.content | strip_html | strip_newlines | truncate: 150 }}
-          <a class="post-link" href="{{ page.url | prepend: site.baseurl }}">Mais</a>
+          <a class="post-link-more" href="{{ page.url | prepend: site.baseurl }}">Mais</a>
         </p>
       </li>
     {% endfor %}
