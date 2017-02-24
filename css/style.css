@@ -50,7 +50,7 @@ header.sticky {
     line-height: 48px;
     height: 48px; 
     width: 100%;
-    text-align: center;
+    text-align: center !important;
     background: #335C7D;
     color: #fff !important;
     text-align: left;
