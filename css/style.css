@@ -1,6 +1,17 @@
 /** * Eric Meyer's Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/) * http://cssreset.com */html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,time, mark, audio, video {  margin: 0;  padding: 0; border: 0;  font-size: 100%;  font: inherit;  vertical-align: baseline;}/* HTML5 display-role reset for older browsers */article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {  display: block;}body {  line-height: 1;}ol, ul {  list-style: none;}blockquote, q { quotes: none;}blockquote:before, blockquote:after,q:before, q:after { content: '';  content: none;}table {  border-collapse: collapse;  border-spacing: 0;}
 
-/* Apenas teste */
+/*
+    Facebook #3B5998
+    Flickr #FE0883
+    Foursquare #8FD400
+    Google+ #C63D2D
+    Instagram #4E433C
+    Linkedin #4875B4
+    Tumblr #2B4964
+    Twitter #33CCFF
+    Vimeo #86B32D
+    Youtube #FF3333
+ */
 body {
     /*height: 2000px;*/
     font-family: "PT Serif", Georgia, Times, serif;
@@ -194,7 +205,7 @@ ul > li {
 }
 
 .footer-edit .copy {
-    line-height: 25px;
+    font-size: 15px;
 }
 
 .footer-edit .container {
@@ -218,3 +229,13 @@ ul > li {
 .footer-links ul li {
     display: inline;
 }
+
+a.icon-linkedin:hover { color:#00a0dc !important; }
+
+a.icon-twitter:hover { color:#33CCFF !important; }
+
+a.icon-github:hover { color:#333 !important; }
+
+a.icon-plus:hover { color:#C63D2D !important; }
+
+a.icon-mail:hover { color:#410093 !important; }
