@@ -50,10 +50,12 @@ header.sticky {
     line-height: 48px;
     height: 48px; 
     width: 100%;
+    text-align: center;
     background: #335C7D;
     color: #fff !important;
     text-align: left;
-    padding-left: 20px;
+    /*padding-left: 20px;*/
+    top: 0px;
     /*margin-top: 50px;*/
 }
 
