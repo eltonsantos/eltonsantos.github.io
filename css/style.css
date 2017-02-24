@@ -61,8 +61,6 @@ header.sticky {
 
 .navbar-center { width: 100%; height: 50px; }
 
-.navbar-nav { text-align: center; }
-
 .navbar-nav {
     /*float:none;*/
     text-align:center;
@@ -70,10 +68,6 @@ header.sticky {
     height: 50px;
 }
 
-.nav > li {
-    display: inline-block;
-    float:none;
-}
 
 .all-content { width: 800px; }
 
