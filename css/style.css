@@ -652,6 +652,7 @@ dd {
 }
 .pageTitle {
     margin: 2rem auto 1em;
+    font-weight: bold;
 }
 .content {
     padding-top: 1em;
@@ -660,6 +661,7 @@ dd {
 .post .postTitle {
     margin-top: 2rem;
     margin-bottom: 1rem;
+    font-weight: bold;
 }
 .post blockquote {
     clear: both;
@@ -845,6 +847,7 @@ dd {
 }
 .posts li h3 {
     margin: 0 0 .5em;
+    font-weight: bold;
 }
 @media only screen and (min-width:800px) {
     .content {
