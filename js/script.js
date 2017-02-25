@@ -1,10 +1,8 @@
 $(window).scroll(function() {
-  if ($(this).scrollTop() > 100){  
-    $('header').addClass("sticky");
+  if ($(this).scrollTop() > 160){  
     $('nav').addClass("sticky");
   }
   else{
-    $('header').removeClass("sticky");
     $('nav').removeClass("sticky");
   }
 });
