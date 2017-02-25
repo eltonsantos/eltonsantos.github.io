@@ -855,6 +855,10 @@ dd {
     position: relative;
     z-index: 1;
 }
+
+.all-content {
+}
+
 .content:after {
     z-index: -1;
     background: #fff;
