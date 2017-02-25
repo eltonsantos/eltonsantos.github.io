@@ -10,12 +10,10 @@ layout: default
   {% endif %}
   <h1 class="postTitle">{{ page.title }}</h1>
   <p class="meta">{% include formato_data.html %} |
-    <span class="time">{{ page.content | number_of_words | divided_by:80 }}</span> minutos de leitura | {{ site.title }}
+    <span class="time">{{ page.content | number_of_words | divided_by:80 }}</span> minutos de leitura | {{ page.categories | category_links }}
   </p>
 
   {{ content }}
-
-
 
   <div class="share">
     <ul class="share-buttons">

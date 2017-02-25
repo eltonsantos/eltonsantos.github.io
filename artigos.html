@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Elton Santos
 ---
 
 <div class="home" id="home">
-  <h1 class="pageTitle">Artigos Recentes</h1>
+  <h1 class="pageTitle">{{ navigation.title }}</h1>
   <ul class="posts noList">
-    {% for page in site.posts %}
+    {% for page in page.posts %}
       <li>
         <span class="date">
           Escrito em: {% include formato_data.html %}.

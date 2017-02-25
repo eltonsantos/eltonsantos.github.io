@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Plugin para slides con Rails
+categories: artigos
 image: beans.jpg
 logo: beans.jpg
 description: Crear mi propio plugin para presentaciones con Rails.

@@ -12,6 +12,9 @@ url: "https://eltonsantos.github.io"
 # github_username:  eltonsantos
 # gplus_username: eltin182
 
+permalink: /:categories/:title/
+category_dir: /
+
 # Social
 social:
   linkedin: eltonmelosantos
@@ -25,9 +28,9 @@ navigation:
   - title: Home
     url: /
   - title: Artigos
-    url: /artigos.html
+    url: /artigos
   - title: Devocionais
-    url: /devocionais.html
+    url: /devocionais
   
 # Build settings
 markdown: kramdown

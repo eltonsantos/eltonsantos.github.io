@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Primeiro artigo do blog
+title: Segundo artigo do blog
 categories: devocionais
 image: beans.jpg
 logo: beans.jpg
-description: Meu primeiro artigo no blog.
+description: Meu segundo artigo no blog.
 escritor: Elton Santos
 comments: true
 ---
