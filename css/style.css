@@ -744,8 +744,7 @@ dd {
     transform: translateY(-50%);
     left: 0;
     width: 100%;
-    .
-            height: auto;
+    height: auto;
 }
 .postNav .next span, .postNav .prev span {
     z-index: 10;
@@ -849,6 +848,12 @@ dd {
     margin: 0 0 .5em;
     font-weight: bold;
 }
+
+.posts li h3 a:hover {
+    color: #c14538;
+    text-decoration: none;
+}
+
 @media only screen and (min-width:800px) {
     .content {
     padding-top: 0;
@@ -857,6 +862,7 @@ dd {
 }
 
 .all-content {
+    /*margin-top: 160px;*/
 }
 
 .content:after {
