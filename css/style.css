@@ -80,6 +80,7 @@ body {
     }
 }
 
+.subname {color: #ccc; font-size:15px;}
 
 legend, td, th {
     padding: 0;
