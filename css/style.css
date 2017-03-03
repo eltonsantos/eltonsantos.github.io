@@ -983,7 +983,7 @@ dd {
 .share{
   position: fixed;
   right: 0;
-  top: 30%;
+  top: 33%;
   width: 8em;
   // margin-top: -2.5em;
   z-index: 9999;
@@ -1026,7 +1026,7 @@ ul.share-buttons .sr-only {
     font-size: 13px;
 }
 
-@media (max-width: 690px) {
+@media (max-width: 767px) {
     .navbar-default .navbar-collapse, .navbar-default .navbar-form {
         border-color: #e7e7e7;
         background: #ccc;
