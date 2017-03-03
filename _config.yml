@@ -6,12 +6,6 @@ description: Meu blog pessoal.
 baseurl: ""
 url: "https://eltonsantos.github.io"
 
-# Social
-# linkedin_username: eltonmelosantos
-# twitter_username: eltin182
-# github_username:  eltonsantos
-# gplus_username: eltin182
-
 permalink: /:categories/:title/
 category_dir: /
 
@@ -27,6 +21,8 @@ social:
 navigation:
   - title: Home
     url: /
+  - title: Sobre mim
+    url: /sobre
   - title: Artigos
     url: /artigos
   - title: Devocionais
