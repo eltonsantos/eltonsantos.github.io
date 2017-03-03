@@ -3,9 +3,8 @@ layout: default
 ---
 
 <div class="home" id="home">
-
   {% for category in site.categories %}
-    <h1 class="pageTitle">{{ category | first }}</h1>
+    <h1 class="pageTitle">{{ site.navigation.title }}</h1>
     <ul class="posts noList">
       {% for posts in category %}
         {% for post in posts %}
