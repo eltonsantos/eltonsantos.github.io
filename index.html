@@ -30,19 +30,27 @@ title: Elton Santos
     {% endfor %}
   </ul>
 
+
   <!-- Pagination links -->
+  {% if paginator.total_pages > 1 %}
   <div class="pagination">
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Postagens Recentes</a>
     {% else %}
-      <span class="previous">Previous</span>
+      <span>&laquo; Postagens Recentes</span>
     {% endif %}
-    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+    {% if paginator.total_pages > 0 %}
+      <span>Página: {{ paginator.page }} de {{ paginator.total_pages }}</span>
+    {% endif %}
+
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Postagens Antigas &raquo;</a>
     {% else %}
-      <span class="next ">Next</span>
+      <span>Postagens Antigas &raquo;</span>
     {% endif %}
   </div>
+  {% endif %}
+
 
 </div>

@@ -626,8 +626,8 @@ a, a:hover {
     height: 50px;
 }
 
-.header h1, .pagination .next {
-    /*float: left;*/
+
+.header h1 {
     position: relative;
     min-height: 160px;
     font-size: 50px;
@@ -635,6 +635,35 @@ a, a:hover {
     top: 0px;
     margin: 0px;
 }
+
+.pagination-buttons {
+    text-align: center;
+}
+
+.total-pages {
+    text-align: center;
+}
+
+.pagination .next {
+    /*float: right;*/
+    position: relative;
+    /*min-height: 160px;
+    font-size: 50px;
+    line-height: 150px;*/
+    top: 0px;
+    margin: 0px;
+}
+
+.pagination .previous {
+    /*float: left;*/
+    position: relative;
+    /*min-height: 160px;
+    font-size: 50px;
+    line-height: 150px;*/
+    top: 0px;
+    margin: 0px;
+}
+
 .nav-toggle:hover {
     color: #fff;
 }
