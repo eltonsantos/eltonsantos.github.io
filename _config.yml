@@ -35,6 +35,8 @@ theme: minima
 gems:
   - jekyll-feed
 
+google_analytics: "UA-92973153-1"
+
 exclude:
   - Gemfile
   - Gemfile.lock
