@@ -12,6 +12,7 @@ ruby "2.3.3"
 gem "jekyll", "3.4.0"
 gem "jekyll-paginate"
 gem "jekyll-seo-tag"
+gem "jemoji"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"

@@ -38,6 +38,7 @@ gems:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
+  - jemoji
 
 google_analytics: "UA-92973153-1"
 
