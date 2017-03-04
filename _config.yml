@@ -5,7 +5,7 @@ description: Meu blog pessoal.
 
 baseurl: ""
 url: "https://eltonsantos.github.io"
-
+paginate_path: "pagina/:num/"
 permalink: /:categories/:title/
 category_dir: /
 
@@ -32,8 +32,12 @@ navigation:
 markdown: kramdown
 theme: minima
 
+paginate: 10
+
 gems:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
 
 google_analytics: "UA-92973153-1"
 

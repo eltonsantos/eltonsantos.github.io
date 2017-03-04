@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby '2.3.3'
+ruby "2.3.3"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -10,6 +10,8 @@ ruby '2.3.3'
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "3.4.0"
+gem "jekyll-paginate"
+gem "jekyll-seo-tag"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
@@ -24,5 +26,5 @@ group :jekyll_plugins do
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
