@@ -1,11 +1,15 @@
-# My personal blog
+# My Personal Blog
 
-My blog personal create with github pages and using Jekyll.
+*NOTE: Blog in Portuguese* My blog personal create with github pages and using Jekyll.
 
 ## Dependencies
 
 - Ruby 2.3.3 version
 - Jekyll 3.4.0 version
+- Jekyll-feed 0.8.0 version
+- Jekyll-paginate 1.1.0 version
+- Jekyll-seo-tag 2.1.0 version
+- Jemoji 0.8.0 version
 
 ## Installation
 
