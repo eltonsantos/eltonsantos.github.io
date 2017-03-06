@@ -76,7 +76,15 @@ body {
     .header h1 a {
         color: #f1f1f1;
         font-weight: bold;
-        font-size: 21px;
+        font-size: 50px;
+    }
+}
+
+@media (max-width:600px) {
+    .header h1 a {
+        color: #f1f1f1;
+        font-weight: bold;
+        font-size: 20px;
     }
 }
 
@@ -630,7 +638,7 @@ a, a:hover {
 .header h1 {
     position: relative;
     min-height: 160px;
-    font-size: 50px;
+    font-size: 70px;
     line-height: 150px;
     top: 0px;
     margin: 0px;
