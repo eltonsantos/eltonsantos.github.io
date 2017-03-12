@@ -12,9 +12,9 @@ comments: true
 
 >__Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento.
 Reconhece-O em todos os teus caminhos, e Ele endireitará as tuas veredas.__
-  Pv. 3:5-6
+ Pv. 3:5-6
 
-Quantas vezes queremos fazer as coisas por conta própria? Quantas vezes queremos fazer do nosso jeito? Quantas vezes queremos fazer as coisas no nosso tempo? E conto uma novidade, quantas vezes fazendo dessa maneira nos prejudicamos ainda mais? Dificultamos ainda mais a situação e quebramos a cara por diversas vezes?
+<p class="intro"><span class="dropcap">Q</span>uantas vezes queremos fazer as coisas por conta própria? Quantas vezes queremos fazer do nosso jeito? Quantas vezes queremos fazer as coisas no nosso tempo? E conto uma novidade, quantas vezes fazendo dessa maneira nos prejudicamos ainda mais? Dificultamos ainda mais a situação e quebramos a cara por diversas vezes?</p>
 
 Sinceramente, eu não sei se acontece com todo mundo, pois conheço gente - pessoas não crentes - que parecem viver um mar de rosas sempre (ou pelo menos disfarçam muito bem). Bom, uma coisa que Bíblia diz para os que creem: que nessa vida você vai encontrar dificuldades, vai sofrer, vai chorar, mas a Bíblia também nos dá um grande conforto, pois ela mesmo diz que Jesus venceu o mundo e por isso não devemos nos desanimar. E é justamente por isso que devemos ficar bem em meio a tribulação, pois Ele está no controle. Ele sabe o que precisamos e a hora que precisamos. Nós apenas devemos dá nosso primeiro passo e confiar Nele com todo nosso entendimento e fé.
 
@@ -25,5 +25,12 @@ Pronto! Não há como não dizer que Deus não estava no controle da situação.
 Eu resumi bem essa história para não deixar o texto longo demais, porém eu não posso deixar de dizer novamente: Deus está no controle! E para testificar que realmente foi obra do Senhor, quando eu cheguei lá no primeiro dia meu supervisor perguntou: "Você sabe por que está aqui?". Eu respondi: "Por que o Senhor quis, Ele me pôs aqui". E o supervisor respondeu: "Eu sabia que isso era fruto de joelho no chão, não poderia ser outra coisa"!
 
 Irmãos amados, não nos preocupemos tanto com o que há de vim, Deus está no controle, basta confiarmos Nele. As tempestades virão sim, mas não pereceremos nelas, pois Deus possui o controle de todas as coisas e Ele sabe o tempo certo de nos levar ao deserto para nos ensinar o Seu amor e nos tirar de lá e nos colocar onde Ele quer.
+
+
+<span class="gray">_"Você me leva ao deserto pra falar de amor, me deixa passar pelo vale pra mostrar  que está comigo.
+Me põe  no meio da tempestade e pinta um arco iris pra me mostrar que tua fidelidade não acabou."_</span>
+<small class="gray">
+__Trecho da música Você Me Leva Ao Deserto, do Ministério Zoe__
+</small>
 
 Amém!

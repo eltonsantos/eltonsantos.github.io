@@ -747,6 +747,12 @@ dd {
 .post .dropcap {
     color: #eb5745;
     margin-right: .45rem;
+    font-size: 80px;
+    float: left;
+    padding: 0px;
+    margin-top: 11.475px;
+    height: 53.1px;
+    line-height: 60px;
 }
 .post .featuredImage {
     position: relative;
@@ -1101,3 +1107,7 @@ a.icon-github:hover { color:#333 !important; }
 a.ico-plus { color:#C63D2D !important; }
 a.icon-plus:hover { color:#C63D2D !important; }
 a.icon-mail:hover { color:#410093 !important; }
+
+/* COLORS */
+.gray {color:#666;}
+.orange {color:#f90;}
