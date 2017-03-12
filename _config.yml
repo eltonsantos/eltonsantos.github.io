@@ -1,7 +1,8 @@
 title: Elton Santos
 email: eltonaxl@hotmail.com
-
 description: Meu blog pessoal.
+author: Elton Santos
+logo: https://avatars3.githubusercontent.com/u/1292594?v=3&s=460
 
 baseurl: ""
 url: "https://eltonsantos.github.io"
