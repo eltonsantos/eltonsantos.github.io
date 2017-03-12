@@ -12,7 +12,7 @@ comments: true
 
 
 >__“Eu sei as tuas obras; eis que diante de ti pus uma porta aberta, e ninguém a pode fechar; tendo pouca força, guardaste a minha palavra, e não negaste o meu nome.”__
- Ap. 3:8
+  Ap. 3:8
 
 Estive meditando nessa passagem que diz popularmente: _"A porta que Deus abre ninguém fecha e a porta que Deus fecha ninguém abre"_.
 
