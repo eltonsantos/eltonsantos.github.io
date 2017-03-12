@@ -2,8 +2,8 @@
 layout: post
 title: Deus está no controle
 categories: devocionais
-image: controle.jpg
-logo: controle.jpg
+image: keep-calm.png
+logo: keep-calm.png
 description: Deus está no controle.
 url: https://eltonsantos.github.io/devocionais/a-porta-que-deus-abre-ninguem-fecha/
 author: Elton Santos
