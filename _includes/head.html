@@ -6,7 +6,15 @@
   <title>{{ site.title }}</title>
 
   {% seo title=false %}
-  
+
+  {% if page.logo %}
+  <meta property="og:image" content="https://eltonsantos.github.io/images/{{ page.logo }}" />
+  {%else%}
+  <meta property="og:image" content="https://avatars3.githubusercontent.com/u/1292594?v=3&s=460" />
+  {% endif %}
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="{{ "/images/favicon.ico" | prepend: site.baseurl }}" />
+
   <!-- Come and get me RSS readers -->
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
