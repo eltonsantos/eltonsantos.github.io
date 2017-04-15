@@ -14,7 +14,7 @@ comments: true
 >__“Eu sei as tuas obras; eis que diante de ti pus uma porta aberta, e ninguém a pode fechar; tendo pouca força, guardaste a minha palavra, e não negaste o meu nome.”__
   Ap. 3:8
 
-<p class="intro"><span class="dropcap">E</span>stive meditando nessa passagem que diz popularmente: _"A porta que Deus abre ninguém fecha e a porta que Deus fecha ninguém abre"_.</p>
+<p class="intro"><span class="dropcap">E</span>stive meditando nessa passagem que diz popularmente: "A porta que Deus abre ninguém fecha e a porta que Deus fecha ninguém abre".</p>
 
 E de fato isso é verdade, quando Deus está a frente e Ele te promete algo, acredite, NADA nesse mundo será capaz de mudar isso. Entretanto quando Ele dá um ponto final, não há nada mais a ser feito, pois o ponto final Dele é absoluto.
 
