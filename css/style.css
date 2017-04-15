@@ -1111,3 +1111,14 @@ a.icon-mail:hover { color:#410093 !important; }
 /* COLORS */
 .gray {color:#666;}
 .orange {color:#f90;}
+
+
+/* PROGRESS BAR */
+.progress-indicator {
+    position: fixed;
+    top: 50px;
+    left: 0;
+    height: 3px;
+    background-color: #eb5745;
+    /*background-color: #0A74DA;*/
+}
