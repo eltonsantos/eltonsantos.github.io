@@ -51,7 +51,7 @@ A segunda fraqueza a qual Sansão sofreu encontra-se em *Juízes 16:20* que diz:
 >"E disse ela: Os filisteus vêm sobre ti, Sansão. E despertou ele do seu sono, e disse: Sairei ainda esta vez como dantes, e me sacudirei. Porque ele não sabia que já o Senhor se tinha retirado dele."
 
 Foi o que aconteceu com Sansão que no segundo momento experimentou a fraqueza espiritual. Você pode está sem força pra orar, sem força para estimular o coração a orar. Suas orações são repetitivas, cansativas, fracas, desanimadas. Oração seca, vazia, pobre. Você não consegue mais ler as escrituras, sem vontade de ler, sem aquela fome de leitura. Insensibilidade espiritual. Não é mais sensível a voz de Deus . Perdeu aquele sentido aguçado, está vendo tudo com os olhos naturais.
-A Fraqueza espiritual nos leva a perder o domínio próprio, que é fruto do Espírito, como diz em *Gálatas 5:22*. Vc fica abatido, carnal, desequilibrado, ansioso. Desequilibrado emocionalmente, você não consegue mais dominar sua carne, cai nos menores pecados, sem força para resistir as setas, sem forças pra ir a um culto e quando vem não consegue se concentrar em um louvor. Se estou fraco espiritualmente não consigo orar.
+A Fraqueza espiritual nos leva a perder o domínio próprio, que é fruto do Espírito, como diz em *Gálatas 5:22*. Você fica abatido, carnal, desequilibrado, ansioso. Desequilibrado emocionalmente, você não consegue mais dominar sua carne, cai nos menores pecados, sem força para resistir as setas, sem forças pra ir a um culto e quando vem não consegue se concentrar em um louvor. Se estou fraco espiritualmente não consigo orar.
 Como a Bíblia diz em *1 Tessalonicenses 5:19*  *"Não extingais o Espírito"*, pois uma vez que estou fraco espiritualmente não consigo mortificar a carne, não consigo ter vontade de me alegrar em Cristo e diante das circunstâncias da vida, eu não consigo enfrentá-las. Sendo fraco espiritualmente, a Bíblia não tem significado nenhum pra mim, não passa de um livro comum. Jesus veio para que tenhamos vida e vida em abundância e que tenhamos plenitude do conhecimento de Deus.
 
 #### **3) FRAQUEZA EMOCIONAL**
@@ -91,7 +91,7 @@ Essas são as quatro fraquezas que nos acometem.
 
 *Hebreus 11* tem a resposta, no verso 32 ela cita Sansão e no 33 fala o que causou a vitória. O capítulo narra homens que tiveram grandes vitórias no antigo testamento. E se refere também a Sansão, onde ele dá fraqueza fez força. Por meio da fé, da fraqueza ele conseguiu extrair força. Essa é a resposta. Foi pela fé que Sansão mudou seu cativeiro, pela fé que Sansão se reanimou e teve seu quadro mudado.
 
-Uma das coisas que pode está te impedindo sao os embaraços, as futilidades, o pecado pode ser a causa da fraqueza. Sansão fez tudo de errado, matou muita gente, adulterou, fez o que era mal aos olhos do Senhor. Essas coisas foram as razões a levar Sansão a fraqueza.
+Uma das coisas que pode está te impedindo são os embaraços, as futilidades, o pecado pode ser a causa da fraqueza. Sansão fez tudo de errado, matou muita gente, adulterou, fez o que era mal aos olhos do Senhor. Essas coisas foram as razões a levar Sansão a fraqueza.
 
 *Hebreus 12:1-2* fala o que está faltando.
 
@@ -116,6 +116,6 @@ Deus diz: quem disse que vou deixar você perder sua família? Quem disse que vo
 
 Deixe o pecado e olhe para a Cruz, para Seu amor, sua misericórdia. Foi isso que Sansão fez!
 
-E para concluir: **O que é a fé?** É a certeza daquilo que se esperam e a prova das coisas que se não vêem. Ele disse? Tá dito, ponto final. Prometeu? Tá prometido, ponto final. Deus nao se esqueceu de Sansão quando ele disse: **"Lembra-te de mim só mais essa vez"**. É claaaaro que Deus vai lembrar de você também meu irmão! Sempre Rle se lembrará de uma alma arrependida, mesmo que essa alma esteja no uuuuuúltimo estágio da fraqueza **o Senhor diz: Eu me lembrarei de ti**!!
+E para concluir: **O que é a fé?** É a certeza daquilo que se esperam e a prova das coisas que se não vêem. Ele disse? Tá dito, ponto final. Prometeu? Tá prometido, ponto final. Deus não se esqueceu de Sansão quando ele disse: **"Lembra-te de mim só mais essa vez"**. É claaaaro que Deus vai lembrar de você também meu irmão! Sempre Ele se lembrará de uma alma arrependida, mesmo que essa alma esteja no uuuuuúltimo estágio da fraqueza **o Senhor diz: Eu me lembrarei de ti**!!
 
 Amém!

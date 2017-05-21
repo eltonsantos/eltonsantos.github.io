@@ -54,7 +54,6 @@ body {
 
 .header .sticky {
     position: fixed;
-
     line-height: 48px;
     min-height: 48px; 
     width: 100%;
@@ -70,7 +69,6 @@ body {
     border-color: #e7e7e7;
 
 }
-
 
 @media (max-width:800px) {
     .header h1 a {
@@ -1096,7 +1094,7 @@ ul.share-buttons .sr-only {
     }
 }
 
-
+/* COLORS SOCIAL MEDIAS */
 a.ico-facebook { color:#3B5998 !important; }
 a.icon-facebook:hover { color:#3B5998 !important; }
 a.ico-linkedin { color:#00a0dc !important; }
@@ -1111,7 +1109,13 @@ a.icon-mail:hover { color:#410093 !important; }
 /* COLORS */
 .gray {color:#666;}
 .orange {color:#f90;}
-
+.red {color:#d9534f;}
+.deepblue {color:#0275d8;}
+.blue {color:#5bc0de;}
+.yellow {color:#f0ad4e;}
+.green {color:#5cb85c;}
+.white {color:#fff;}
+.black {color:#000;}
 
 /* PROGRESS BAR */
 .progress-indicator {
