@@ -19,7 +19,7 @@ Apagaram a força do fogo, escaparam do fio da espada, da fraqueza tiraram forç
 <p class="intro"><span class="dropcap">E</span>sse texto remete a fé, pois ela da vitória, força, coragem para que dá fraqueza se faça força.
 Essa palavra é para todos aqueles em que algum momento esteve ou está fraco e que pela fé em Cristo Jesus conseguiu se reanimar e vencer os obstáculos.</p>
 
-A nossa luta é contra carne, contra nossas inclinações, sedução, acusação, contra o maligno, pecado, opressão...
+A nossa luta é contra os pecados que afrontam a nossa carne, contra nossas inclinações, sedução, acusação, contra o maligno, pecado, opressão...
 Lutamos contra o pecado, contra o diabo, contra o inimigo o tempo todo.
 
 Durante nossa caminhada nos deparamos com diversos momentos que esgotam o nosso vigor, que nos fazem ficarmos sem forças pra reagir e pra lutar.

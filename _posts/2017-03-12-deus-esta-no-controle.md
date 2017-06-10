@@ -4,7 +4,7 @@ title: Deus está no controle
 categories: devocionais
 image: controle.jpg
 logo: controle.jpg
-description: Deus está no controle.
+description: Deus está no controle - Provérbios 3:5-6.
 url: https://eltonsantos.github.io/devocionais/deus-esta-no-controle/
 author: Elton Santos
 comments: true

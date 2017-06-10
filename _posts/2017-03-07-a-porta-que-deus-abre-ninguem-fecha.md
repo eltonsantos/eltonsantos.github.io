@@ -4,7 +4,7 @@ title: A porta que Deus abre ninguém fecha
 categories: devocionais
 image: porta.jpg
 logo: porta.jpg
-description: A porta que Deus abre ninguém fecha e a porta que Deus fecha ninguém abre.
+description: A porta que Deus abre ninguém fecha e a porta que Deus fecha ninguém abre - Apocalipse 3:8.
 url: https://eltonsantos.github.io/devocionais/a-porta-que-deus-abre-ninguem-fecha/
 author: Elton Santos
 comments: true
