@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Compreendendo a graça diante das dores
+title: Compreendendo a graça de Deus diante das dores
 categories: devocionais
 image: coroa-cristo.jpg
 logo: coroa-cristo.jpg
-description: Compreendendo a graça diante das dores - 2 Timóteo 4:6-18
-url: https://eltonsantos.github.io/devocionais/compreendendo-a-graca-diante-das-dores/
+description: Compreendendo a graça de Deus diante das dores - 2 Timóteo 4:6-18
+url: https://eltonsantos.github.io/devocionais/compreendendo-a-graca-de-deus-diante-das-dores/
 author: Elton Santos
 comments: true
 ---
@@ -27,7 +27,7 @@ E o Senhor me livrará de toda a má obra, e guardar-me-á para o seu reino cele
 
 Essa Palavra foi pregada no culto da minha igreja e o Senhor falou forte ao meu coração acerca dela para que eu viesse a compartilhar o que entendi.
 
-## Compreendendo a graça diante das dores
+## Compreendendo a graça de Deus diante das dores
 
 <p class="intro"><span class="dropcap">A</span>prendemos com Paulo como a graça de Deus nos ajuda nos momentos de aflição e angustia. Devemos entender que <b class="red">a graça de Deus não nos livra do sofrimento</b>, pois Paulo foi perseguido em Tessalonica, açoitado em Macedonia, acusado e espancado em Jerusalém, sofre um naufragio em Mileto, picado por uma cobra venenosa na ilha de Malta, apedrejado quase até a morte em Listra, expulso de Antioquia, passou fome e sede em Corinto, foi preso e decapitado por Nero em Roma, e em meio a tantas tribulações que Paulo sofreu, essa graca o fortalece e nos fortalece para suporta-las e que fez Paulo dizer em Gálatas 6:17: "Eu trago no meu corpo as marcas de Jesus".</p>
 
