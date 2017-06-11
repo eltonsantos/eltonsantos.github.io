@@ -29,7 +29,7 @@ Essa Palavra foi pregada no culto da minha igreja e o Senhor falou forte ao meu 
 
 ## Compreendendo a graça de Deus diante das dores
 
-<p class="intro"><span class="dropcap">A</span>prendemos com Paulo como a graça de Deus nos ajuda nos momentos de aflição e angustia. Devemos entender que <b class="red">a graça de Deus não nos livra do sofrimento</b>, pois Paulo foi perseguido em Tessalonica, açoitado em Macedonia, acusado e espancado em Jerusalém, sofre um naufragio em Mileto, picado por uma cobra venenosa na ilha de Malta, apedrejado quase até a morte em Listra, expulso de Antioquia, passou fome e sede em Corinto, foi preso e decapitado por Nero em Roma, e em meio a tantas tribulações que Paulo sofreu, essa graca o fortalece e nos fortalece para suporta-las e que fez Paulo dizer em Gálatas 6:17: "Eu trago no meu corpo as marcas de Jesus".</p>
+<p class="intro"><span class="dropcap">A</span>prendemos com Paulo como a graça de Deus nos ajuda nos momentos de aflição e angustia. Devemos entender que <b class="red">a graça de Deus não nos livra do sofrimento</b>, pois Paulo foi perseguido em Tessalonica, açoitado em Macedonia, acusado e espancado em Jerusalém, sofre um naufragio em Mileto, picado por uma cobra venenosa na ilha de Malta, apedrejado quase até a morte em Listra, expulso de Antioquia, passou fome e sede em Corínto, foi preso e decapitado por Nero em Roma, e em meio a tantas tribulações que Paulo sofreu, essa graca o fortalece e nos fortalece para suporta-las e que fez Paulo dizer em Gálatas 6:17: "Eu trago no meu corpo as marcas de Jesus".</p>
 
 Irmãos amados, quero dizer pra vocês que o nosso sofrimento nao é sinal de que estamos longe da vontade de Deus. As nossas angustias nos fazem estar mais perto do nosso Senhor Jesus e esse tempo presente de sofrimento e de dor não pode ser comparado com aquilo que há de vim quando chegar a hora.
 
@@ -41,11 +41,11 @@ Paulo nos deu exemplos práticos
 
 **Paulo sofreu de solidão**
 
-O apostolo dos gentis nao foi assistido por ninguém. Gente precisa de Deus, mas também gente precisa de gente, somos sociais, ninguém pode conviver sozinho por toda a vida, precisamos nos relacionar socialmente. Na hora que mais precisou ficou sozinho.
+O apóstolo dos gentis não foi assistido por ninguém. Gente precisa de Deus, mas também gente precisa de gente, somos sociais, ninguém pode conviver sozinho por toda a vida, precisamos nos relacionar socialmente. Na hora que mais precisou ficou sozinho.
 
 **Paulo sofreu de ingratidão**
 
-Todos o abandonaram. Paulo deu sua vida, mas não teve ninguém que tivera se esforçado para da em troca. Quando fizeres algo a alguém nao espere nada em troca, nao espere receber de volta o amor ao qual tem dado.
+Todos o abandonaram. Paulo deu sua vida, mas não teve ninguém que tivera se esforçado para da em troca. Quando fizeres algo a alguém não espere nada em troca, não espere receber de volta o amor ao qual tem dado.
 
 **Paulo sofreu perseguição**
 
@@ -53,7 +53,7 @@ Como pode ser lido no verso 14, Paulo sofreu muitos males de seus inimigos, mas 
 
 **Paulo sofreu a dor da resistência e oposição**
 
-Não levante uma agulha, não o mate, não brigue, nao discuta, não pragueje, nao abra a boca para se levantar contra teus inimigos, por que deles quem cuida é o próprio Deus. Você não precisa defender Teu Deus, é Ele quem nos defende.
+Não levante uma agulha, não o mate, não brigue, não discuta, não pragueje, não abra a boca para se levantar contra teus inimigos, por que deles quem cuida é o próprio Deus. Você não precisa defender Teu Deus, é Ele quem nos defende.
 
 Irmãos, a graça de Deus nos capacita a obter valores mais altos para a própria vida.
 Paulo comparou sua vida a um sacrifício ao Senhor, vivendo pra Ele, oferecendo tudo a Ele e é com esse sacrifício que Deus vai usar a tua crise como exemplo para ensinar as demais pessoas e você dirá: Foi necessário eu passar por tudo isso para entender os mistérios do Senhor. Glória a Deus!
