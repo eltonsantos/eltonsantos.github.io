@@ -29,7 +29,7 @@ Porém, Abraão lhe disse: Se não ouvem a Moisés e aos profetas, tampouco acre
 
 Amados irmãos, um time que perde hoje, pode ganhar amanhã; um general que perde uma batalha hoje, pode ganhar outra batalha e até mesmo a guerra amanhã; uma pessoa que não passa em concurso hoje, pode ser aprovado em outro amanhã... Nas coisas comuns da vida, nós provavelmente temos outras chances, no entanto em relação a vida e a morte, não há outra chance...
 
-Em *Hebreus 3:7-8* diz assim: "Se ouvirdes hoje a voz do Espírito Santo, não endureçais os vossos corações". Irmãos, hoje é um dia oportuno, não há esperança depois da morte, pois não existe reencarnação e também não existe purgatório. Após a morte, temos que dar conta da nossa vida a Deus, com tudo que fizemos e deixamos de fazer.
+Em **Hebreus 3:7-8** diz assim: "Se ouvirdes hoje a voz do Espírito Santo, não endureçais os vossos corações". Irmãos, hoje é um dia oportuno, não há esperança depois da morte, pois não existe reencarnação e também não existe purgatório. Após a morte, temos que dar conta da nossa vida a Deus, com tudo que fizemos e deixamos de fazer.
 
 Nós tendemos a imaginar que temos tanto tempo pela frente, uma longa estrada, pois somos jovens, saudáveis na medida do possível, temos recursos e não encontramos tempo de cuidar de algo tão importante: a nossa alma. Sempre imaginamos que podemos cuidar disso quando estivermos mais velhos.
 
