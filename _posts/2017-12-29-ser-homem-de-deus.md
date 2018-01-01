@@ -26,7 +26,7 @@ A primeira delas é ser homem de Deus no trabalho. Um homem de Deus deve ser apl
 
 ## Ser homem de Deus no casamento
 
-A próximo área que devemos ser homens de Deus e provavelmente a mais difícil devido ao grau de importância e complexidade é no casamento. Pra ser um homem de Deus no casamento, pra ser um marido bíblico, um marido excepcional, um marido segundo a Bíblia recomenda, o homem deve ser quatro coisas:
+A próxima área que devemos ser homens de Deus e provavelmente a mais difícil devido ao grau de importância e complexidade é no casamento. Pra ser um homem de Deus no casamento, pra ser um marido bíblico, um marido excepcional, um marido segundo a Bíblia recomenda, o homem deve ser quatro coisas:
 
 **1 - Sacerdote**
 
