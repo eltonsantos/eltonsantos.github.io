@@ -4,7 +4,7 @@ title: Estudo dos solas:&nbsp; Sola Gratia
 categories: devocionais
 image: solagratia.jpg
 logo: solagratia.jpg
-description: Parte 2 - Sola Gratia - 2 Efésios 2:8-10
+description: Parte 2 - Sola Gratia - Efésios 2:8-10
 url: https://eltonsantos.github.io/devocionais/sola-gratia/
 author: Elton Santos
 comments: true
