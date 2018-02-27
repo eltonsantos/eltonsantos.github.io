@@ -2,8 +2,8 @@
 layout: post
 title: Estudo dos solas:&nbsp; Solus Christus
 categories: devocionais
-image: soluschristus.png
-logo: soluschristus.png
+image: soluschristus2.jpg
+logo: soluschristus2.jpg
 description: Parte 4 - Solus Christus - Atos 4:12
 url: https://eltonsantos.github.io/devocionais/solus-christus/
 author: Elton Santos
