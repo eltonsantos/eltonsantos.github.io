@@ -2,8 +2,8 @@
 layout: post
 title: Estudo dos solas:&nbsp; Soli Deo Gloria
 categories: devocionais
-image: solideogloria2.jpg
-logo: solideogloria2.jpg
+image: solideogloria3.jpg
+logo: solideogloria3.jpg
 description: Parte 5 - Soli Deo Gloria - Romanos 11:33-36
 url: https://eltonsantos.github.io/devocionais/soli-deo-gloria/
 author: Elton Santos
