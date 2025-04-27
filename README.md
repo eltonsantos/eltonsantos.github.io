@@ -4,12 +4,13 @@
 
 ## Dependencies
 
-- Ruby 2.3.3 version
-- Jekyll 3.4.0 version
-- Jekyll-feed 0.8.0 version
+- Ruby 3.3.4 version
+- Jekyll 4.4.1 version
+- Jekyll-feed 0.17 version
 - Jekyll-paginate 1.1.0 version
-- Jekyll-seo-tag 2.1.0 version
-- Jemoji 0.8.0 version
+- Jekyll-seo-tag 2.5+ version
+- Jemoji 0.10+ version
+- Webrick (necessário para Ruby 3.0+)
 
 ## Installation
 
@@ -17,8 +18,8 @@ On terminal:
 
 1. `git clone git@github.com:eltonsantos/eltonsantos.github.io`.
 2. `cd eltonsantos.github.io`.
-4. `bundle install`.
-5. run `jekyll s`.
+3. `bundle install`.
+4. run `bundle exec jekyll serve`.
 
 ## Usage
 
